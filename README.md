@@ -6,9 +6,9 @@
 
 AlphaSwap | How Do Private Swap Works on AlphaSwap: [https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_ALPHASWAP](https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_ALPHASWAP)
 
-Algorand | Building with Python on Algorand: [https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_ALGORAND](https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_ALGORAND)
+Algorand | Building with Python on Algorand: [https://github.com/0xNidz/BUILDH3R_JUNE_ALGORAND](https://github.com/0xNidz/BUILDH3R_JUNE_ALGORAND)
 
-Avalanche | A Network of Networks: [https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_AVALANCHE](https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_AVALANCHE)
+Avalanche | A Network of Networks: [https://github.com/0xNidz/BUILDH3R_JUNE_AVALANCHE](https://github.com/0xNidz/BUILDH3R_JUNE_AVALANCHE)
 
 Polygon | Building Full Stack Applications on Polygon zkEVM: [https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_POLYGON](https://github.com/0xNidz/BUILDH3R_JUNE_WORKSHOPS/tree/main/BUILDH3R_JUNE_POLYGON)
 
